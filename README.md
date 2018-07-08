@@ -1,8 +1,19 @@
+
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8000`
+
 Fruitfacts
 
 This app allows the user to pick a fruit and have some simple information about the fruit be displayed along with a picture of that fruit.
 
-demo:
+![pic](pic.jpg)
 
 How It's Made:
 Tech used: HTML, CSS, Javascript, Node
@@ -14,6 +25,3 @@ I would like to add more fruits at a later time and more facts about fruits also
 
 Lessons Learned:
 In my pokemon app I didn't figure out how to add images when the information was printed to the DOM I also didn't know how to write numbers inside of an object yet. I feel like this App really strengthened my understanding of object-oriented programming and will be one that I look back on to say that was when things started to really click for me.
-
-Examples:
-Take a look at these example that I have in my portfolio
